@@ -1,0 +1,3 @@
+
+We are looking for a Python Developer with knowledge in machine learning, APIs, and web frameworks like Flask or Django. 
+Skills required include Python, NLP, scikit-learn, Flask, REST API, and cloud basics.
